@@ -1,0 +1,116 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight:600;
+    
+}
+
+ul.navbar-nav>li>a{
+    letter-spacing: 0.2em;
+    text-transform: capitalize;
+    font-weight: 300px;
+}
+ul.navbar-nav>li.nav-item.dropdown>.dropdown-menu>a{
+    letter-spacing:0.15em;
+}
+#thumbnails{
+    margin-top:2em ;
+}
+.list-unstyled li {
+    padding: 1.5rem;
+    border-bottom: 1px solid #343a40;
+}
+.list-unstyled li a{
+    color: black;
+    text-decoration: none;
+}
+.list-unstyled li{
+    color: black;
+}
+footer{
+    padding: 2rem;
+    background-color: #eee;
+    margin-top: 2rem;
+}
+footer a,li{
+    color:#666666;
+    transition: 0.4s ease-in;
+    padding: 0.2rem;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+
+
+footer p {
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+
+}
+footer a:hover{
+    background-color: #5cdb95;
+    text-decoration: none;
+}
+
+body{
+    background:#5cdb95;
+}
+
+#05386b blue
+#379683 light blue
+#5cdb95 green
+#Edf5e1 white
+.navbar .navbar-expand-lg .navbar-light{
+    background-color:#05386b;
+}
+.btn-outline-dark{
+   background-color: #05386b;
+   color: white;
+}
+.btn-outline-dark:hover{
+    background-color:#5cdb95;
+    color: #05386b;
+    
+ }
+
+.nav-link{
+    color: #05386b;
+}
+.nav-link{
+    background-color: #05386b;
+    color: white;
+ }
+ .nav-link{
+    background-color: #5cdb95;
+    
+}
+.nav-link>a{
+    color: #05386b;
+}
+.img-fluid{
+    margin:0 2em;
+
+}
+.font{
+    font-size: 1.3em;
+    font-weight: 600;
+}
+.card-title{
+    font-size: 1.6em;
+    font-weight: 600;
+}
+.card-img-top{
+    width: auto;
+    height: 23em;
+    
+}
+.carousel-item > img{
+    width: 40em;
+    height: 40em;
+}
+#submit{
+    text-decoration: none;
+
+}
+#btn-submit:hover{
+    background-color: #116dc9;
+    color: white;
+}
